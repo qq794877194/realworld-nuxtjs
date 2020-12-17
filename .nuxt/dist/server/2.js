@@ -1,7 +1,7 @@
 exports.ids = [2];
 exports.modules = {
 
-/***/ 30:
+/***/ 28:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -79,7 +79,7 @@ const deleteArticle = slug => {
 
 /***/ }),
 
-/***/ 32:
+/***/ 30:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -94,10 +94,10 @@ var staticRenderFns = []
 // CONCATENATED MODULE: ./pages/article/index.vue?vue&type=template&id=ec40615e&scoped=true&
 
 // EXTERNAL MODULE: ./request/article.js
-var request_article = __webpack_require__(30);
+var request_article = __webpack_require__(28);
 
 // EXTERNAL MODULE: external "markdown-it"
-var external_markdown_it_ = __webpack_require__(29);
+var external_markdown_it_ = __webpack_require__(27);
 var external_markdown_it_default = /*#__PURE__*/__webpack_require__.n(external_markdown_it_);
 
 // CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./pages/article/components/article-meta.vue?vue&type=template&id=fc2f8048&scoped=true&

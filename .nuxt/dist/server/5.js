@@ -1,7 +1,7 @@
 exports.ids = [5];
 exports.modules = {
 
-/***/ 31:
+/***/ 29:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28,7 +28,7 @@ const updateProfile = data => {
 
 /***/ }),
 
-/***/ 35:
+/***/ 33:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -43,7 +43,7 @@ var staticRenderFns = []
 // CONCATENATED MODULE: ./pages/login/index.vue?vue&type=template&id=21857351&
 
 // EXTERNAL MODULE: ./request/user.js
-var user = __webpack_require__(31);
+var user = __webpack_require__(29);
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/login/index.vue?vue&type=script&lang=js&
 //

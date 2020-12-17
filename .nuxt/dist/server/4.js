@@ -1,7 +1,7 @@
 exports.ids = [4];
 exports.modules = {
 
-/***/ 30:
+/***/ 28:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -79,7 +79,7 @@ const deleteArticle = slug => {
 
 /***/ }),
 
-/***/ 33:
+/***/ 31:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -94,7 +94,7 @@ var staticRenderFns = []
 // CONCATENATED MODULE: ./pages/home/index.vue?vue&type=template&id=1eadcf32&scoped=true&
 
 // EXTERNAL MODULE: ./request/article.js
-var request_article = __webpack_require__(30);
+var request_article = __webpack_require__(28);
 
 // EXTERNAL MODULE: ./plugins/request.js
 var request = __webpack_require__(6);

@@ -6,48 +6,58 @@
       {
         "path": "",
         "name": "home",
-        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\realworld-nuxtjs\\\\pages\\\\home"
+        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\realworld-nuxtjs\\\\pages\\\\home",
+        "_name": "_9e26628c"
       },
       {
         "path": "/login",
         "name": "login",
-        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\realworld-nuxtjs\\\\pages\\\\login"
+        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\realworld-nuxtjs\\\\pages\\\\login",
+        "_name": "_6ce550ee"
       },
       {
         "path": "/register",
         "name": "register",
-        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\realworld-nuxtjs\\\\pages\\\\login"
+        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\realworld-nuxtjs\\\\pages\\\\login",
+        "_name": "_6ce550ee"
       },
       {
         "path": "/profile/:username",
         "name": "profile",
-        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\realworld-nuxtjs\\\\pages\\\\profile"
+        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\realworld-nuxtjs\\\\pages\\\\profile",
+        "_name": "_bc08c424"
       },
       {
         "path": "/profile2/:username",
         "name": "profile2",
-        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\realworld-nuxtjs\\\\pages\\\\profile"
+        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\realworld-nuxtjs\\\\pages\\\\profile",
+        "_name": "_bc08c424"
       },
       {
         "path": "/settings",
         "name": "settings",
-        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\realworld-nuxtjs\\\\pages\\\\settings"
+        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\realworld-nuxtjs\\\\pages\\\\settings",
+        "_name": "_2eb8307e"
       },
       {
         "path": "/editor",
         "name": "editor",
-        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\realworld-nuxtjs\\\\pages\\\\editor"
+        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\realworld-nuxtjs\\\\pages\\\\editor",
+        "_name": "_2338f088"
       },
       {
         "path": "/editor/:slug",
         "name": "editor2",
-        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\realworld-nuxtjs\\\\pages\\\\editor"
+        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\realworld-nuxtjs\\\\pages\\\\editor",
+        "_name": "_2338f088"
       },
       {
         "path": "/article/:slug",
         "name": "article",
-        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\realworld-nuxtjs\\\\pages\\\\article"
+        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\realworld-nuxtjs\\\\pages\\\\article",
+        "_name": "_ee743d8a"
       }
-    ]
+    ],
+    "_name": "_2f07ca45"
   }
 ]

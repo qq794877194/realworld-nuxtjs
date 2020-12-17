@@ -55,6 +55,6 @@ jobs:
         script: |
           cd /root/study-project/realworld-nuxt
           wget https://github.com/qq794877194/realworld-nuxtjs/releases/latest/download/release.tgz -O release.tgz
-          tar zxvf release.tgz
-          npm install --production
+          tar -zxvf release.tgz
+          npm i
           pm2 reload pm2.config.json

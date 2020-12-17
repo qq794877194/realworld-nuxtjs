@@ -1,7 +1,7 @@
 exports.ids = [1];
 exports.modules = {
 
-/***/ 30:
+/***/ 28:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -79,7 +79,7 @@ const deleteArticle = slug => {
 
 /***/ }),
 
-/***/ 31:
+/***/ 29:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -106,7 +106,7 @@ const updateProfile = data => {
 
 /***/ }),
 
-/***/ 36:
+/***/ 34:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -121,10 +121,10 @@ var staticRenderFns = []
 // CONCATENATED MODULE: ./pages/profile/index.vue?vue&type=template&id=1340cb45&scoped=true&
 
 // EXTERNAL MODULE: ./request/user.js
-var user = __webpack_require__(31);
+var user = __webpack_require__(29);
 
 // EXTERNAL MODULE: ./request/article.js
-var request_article = __webpack_require__(30);
+var request_article = __webpack_require__(28);
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib??vue-loader-options!./pages/profile/index.vue?vue&type=script&lang=js&
 //
