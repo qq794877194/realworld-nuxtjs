@@ -1,52 +1,52 @@
 [
   {
     "path": "/",
-    "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\study3-realworld\\\\pages\\\\layout",
+    "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\realworld-nuxtjs\\\\pages\\\\layout",
     "children": [
       {
         "path": "",
         "name": "home",
-        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\study3-realworld\\\\pages\\\\home"
+        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\realworld-nuxtjs\\\\pages\\\\home"
       },
       {
         "path": "/login",
         "name": "login",
-        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\study3-realworld\\\\pages\\\\login"
+        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\realworld-nuxtjs\\\\pages\\\\login"
       },
       {
         "path": "/register",
         "name": "register",
-        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\study3-realworld\\\\pages\\\\login"
+        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\realworld-nuxtjs\\\\pages\\\\login"
       },
       {
         "path": "/profile/:username",
         "name": "profile",
-        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\study3-realworld\\\\pages\\\\profile"
+        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\realworld-nuxtjs\\\\pages\\\\profile"
       },
       {
         "path": "/profile2/:username",
         "name": "profile2",
-        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\study3-realworld\\\\pages\\\\profile"
+        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\realworld-nuxtjs\\\\pages\\\\profile"
       },
       {
         "path": "/settings",
         "name": "settings",
-        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\study3-realworld\\\\pages\\\\settings"
+        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\realworld-nuxtjs\\\\pages\\\\settings"
       },
       {
         "path": "/editor",
         "name": "editor",
-        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\study3-realworld\\\\pages\\\\editor"
+        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\realworld-nuxtjs\\\\pages\\\\editor"
       },
       {
         "path": "/editor/:slug",
         "name": "editor2",
-        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\study3-realworld\\\\pages\\\\editor"
+        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\realworld-nuxtjs\\\\pages\\\\editor"
       },
       {
         "path": "/article/:slug",
         "name": "article",
-        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\study3-realworld\\\\pages\\\\article"
+        "component": "D:\\\\webStormProjects\\\\vue\\\\server2\\\\realworld-nuxtjs\\\\pages\\\\article"
       }
     ]
   }
