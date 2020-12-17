@@ -58,4 +58,3 @@ jobs:
           tar zxvf release.tgz
           npm install --production
           pm2 reload pm2.config.js
-        #          https://github.com/qq794877194/realworld-nuxtjs/releases/download/release.tgz
