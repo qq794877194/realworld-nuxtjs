@@ -1,5 +1,8 @@
 module.exports = {
-    target: 'static',
+    server: {
+      host: '0.0.0.0',
+      port: 3000
+    },
     router: {
         linkActiveClass: 'active',
         extendRoutes(routes, resolve){
